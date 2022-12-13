@@ -5,7 +5,7 @@
 #include <sstream>
 #include <list>
 #include <algorithm>
-
+//
 class CTelevisor;
 
 class TTelevisor_State
